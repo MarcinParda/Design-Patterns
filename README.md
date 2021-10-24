@@ -7,3 +7,5 @@ Design Patterns for frontend development written in Javascript
 
 ## Beheavior patterns
 * Factory Pattern -> [StackBlitz](https://stackblitz.com/edit/js-aweqmg)
+* Iterator Pattern -> [StackBlitz](https://stackblitz.com/edit/js-ydnkga)
+* Observer Pattern -> [StackBlitz](https://stackblitz.com/edit/js-7xoc3b)
