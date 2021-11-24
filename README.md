@@ -5,6 +5,10 @@ Design Patterns for frontend development written in Javascript
 * Factory Pattern -> [StackBlitz](https://stackblitz.com/edit/js-nrsjzr)
 * Singleton Pattern -> [StackBlitz](https://stackblitz.com/edit/js-dvo9ny)
 
+
+## Structural pattern
+* Proxy Pattern -> [StackBlitz](https://stackblitz.com/edit/js-jed7nx)
+
 ## Beheavior patterns
 * Strategy Pattern -> [StackBlitz](https://stackblitz.com/edit/js-aweqmg)
 * Iterator Pattern -> [StackBlitz](https://stackblitz.com/edit/js-ydnkga)
