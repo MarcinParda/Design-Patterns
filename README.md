@@ -14,3 +14,7 @@ Design Patterns for frontend development written in Javascript
 * Iterator Pattern -> [StackBlitz](https://stackblitz.com/edit/js-ydnkga)
 * Observer Pattern -> [StackBlitz](https://stackblitz.com/edit/js-7xoc3b)
 * Mediator Pattern -> [StackBlitz](https://stackblitz.com/edit/js-7xoc3b)
+
+## Fuctionalities to implement
+
+- [ ] Rewrite to typescript
